@@ -4,6 +4,7 @@ function function1(){
     myLocalVariable = 5;
 
 }
+// Write code above this line
 function function2(){
     var result = "";
     if(typeof myGlobalVariable != "undefined") {
